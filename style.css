@@ -1,0 +1,55 @@
+.container {
+	display:grid;
+	grid-template-columns: minmax(100px, 900px);
+	grid-template-rows: auto, auto, 1fr;
+
+}
+
+.menu {
+
+}
+
+.image {
+	background-color:white;
+}
+
+.content {
+	background-color:#A3E8DB;
+	color:white;
+}
+
+.imagee {
+	background-color:white;
+}
+
+.contentt {
+	background-color:#86E8AE;
+	color:white;
+}
+
+.imageee {
+	background-color:white;
+}
+
+.contenttt {
+	background-color:#E87B72;
+	color:white;
+}
+
+.picture {
+	background-color:white;
+}
+
+.info {
+	background-color:#9990E8;
+	color:white;
+}
+
+.picturee {
+	background-color:white;
+}
+
+.infoo {
+	background-color:#F5D290;
+	color:white;
+}

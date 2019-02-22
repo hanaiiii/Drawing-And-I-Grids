@@ -1,0 +1,20 @@
+body {
+	color: black;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: Arial;
+	color: black;
+	font-size: 18px;
+}
+
+#deals {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+
+
+
